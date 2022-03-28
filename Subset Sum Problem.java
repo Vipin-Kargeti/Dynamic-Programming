@@ -35,7 +35,6 @@ class GFG
 class Solution{
 
 
-//Memoization
     static Boolean isSubsetSum(int N, int arr[], int sum){
         // code here 
         
